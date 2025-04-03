@@ -12,5 +12,5 @@ belito-backend/.env
 belito-backend/chatbot_log.json
 belito-backend/chatbot_log.txt.DS_Store
 .venv/
-.venv/
-.env
+venv/
+
